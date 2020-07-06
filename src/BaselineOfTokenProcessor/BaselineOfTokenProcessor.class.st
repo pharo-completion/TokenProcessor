@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfTokenProcessor,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#category : #BaselineOfTokenProcessor
 }
 
